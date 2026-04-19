@@ -5,12 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Heitor Henrique
+- Matricula:924375
+- Descrição:Simulador de orçamento pessoal feito em JavaScript.
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![alt text](orçamento-1.png) >>
 
 
 
